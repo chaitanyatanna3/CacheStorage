@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">CacheStorage</string>
+    <string name="action_settings">Settings</string>
+    <string name="info">Enter some information</string>
+    <string name="data_saved">Data to be Saved</string>
+    <string name="internal_cache">Internal Cache</string>
+    <string name="external_cache">External Cache</string>
+    <string name="external_private">External Private</string>
+    <string name="external_public">External Public</string>
+    <string name="next">Next</string>
+    <string name="data_load">Data to be Loaded</string>
+    <string name="loadinternalcache">Load from Internal Cache</string>
+    <string name="loadexternalcache">Load from External Cache</string>
+    <string name="loadexternalprivate">Load from external private</string>
+    <string name="loadexternalpublic">Load from external public</string>
+</resources>
